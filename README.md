@@ -30,4 +30,4 @@ EXAMPLE: ./passwordsniffer.py eth0
 
 The program will keep running so it won't stop by itself so if you want to stop the program just use the keyboard shortcut ctrl + c
 
-If you want to steal credentials from everyone in the network then for now just run the arpsoofer first https://github.com/Anz1x/Arp-Spoofer and then run the password sniffer, later I might put everything in 1 big program
+If you want to steal credentials from everyone in the network then for now just run the arpsoofer first https://github.com/Anz1x/Arp-Spoofer and then run the password sniffer, later I might put everything in a 1 big program
