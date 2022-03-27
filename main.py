@@ -64,6 +64,6 @@ iface = str(sys.argv[1])
 try:
     sniff(iface=iface, prn=packet_parser, store=0)
 except KeyboardInterrupt:
-    logging.info(Fore.RED + "\n[+] Exited the session")
+    logging.info(Fore.RED + "\n[+] Exited the Password Sniffer attack")
  
     exit(0)
