@@ -1,10 +1,6 @@
 # Password-Sniffer
 Password-Sniffer coded in Python 3.10.2.  
 
-DISCLAIMER:
-
-- I am not responsible with your illegal intentions with this so don't use this on someone explicitly without their permission.
-
 Third Party Modules:
 
 - scapy
