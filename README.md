@@ -24,7 +24,7 @@ Installation:
 Usage:
 
 In order to use this you first need to run the file and specify 2 arguments: the router and the target (in order)
-./passwordsniffer.py < your network interface>
+./passwordsniffer.py <your network interface>
 
 EXAMPLE: ./passwordsniffer.py eth0
 
